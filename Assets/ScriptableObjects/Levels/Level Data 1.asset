@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff78563e76c6cd449945778e6ff22562, type: 3}
+  m_Name: Level Data 1
+  m_EditorClassIdentifier: 
+  objectList:
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 10
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 2
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 10
+  - levelObject: {fileID: 11400000, guid: 1c4b624c4a57cdd4abe05fb6548c1884, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 2
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 0
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 567eab12d6638e84eae6190f3a040713, type: 2}
+    lanePosition: 0
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 10
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 2
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 1
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 1
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 2
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: faa65f7d317e6924dafda74f09f35abb, type: 2}
+    lanePosition: 2
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 5
+  - levelObject: {fileID: 11400000, guid: 567eab12d6638e84eae6190f3a040713, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 567eab12d6638e84eae6190f3a040713, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 567eab12d6638e84eae6190f3a040713, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: 98ebaede20b066a43973efd17e37fed0, type: 2}
+    lanePosition: 0
+    distance: 10
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2
+  - levelObject: {fileID: 11400000, guid: a6fa56767b5176d4e82ece4a6eaea836, type: 2}
+    lanePosition: 0
+    distance: 2

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060db2a9e2caa2a43aac1638442ba849, type: 3}
+  m_Name: Obstacle 2 (width 2)
+  m_EditorClassIdentifier: 
+  modelList:
+  - {fileID: 4213625148777811032, guid: 06084acad7eba1447a31ea0c687cba62, type: 3}

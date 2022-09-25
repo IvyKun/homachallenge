@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060db2a9e2caa2a43aac1638442ba849, type: 3}
+  m_Name: Obstacle Random (width 3)
+  m_EditorClassIdentifier: 
+  modelList:
+  - {fileID: 1921528062287006169, guid: 70686874d0b6175449b9772ddac7e2da, type: 3}
+  - {fileID: 916421196351932863, guid: f519cef210f55274891801166ea8e9b8, type: 3}
